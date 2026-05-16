@@ -1,2 +1,1 @@
-# html-learning-projects
-Small HTML projects built while learning web development
+"A collection of small HTML projects built while learning web development. Topics covered: semantic HTML, links, lists, images, figures and footers."
